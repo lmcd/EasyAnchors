@@ -38,3 +38,5 @@ image.edgeAnchors == view.edgeAnchors
 - [ ] macOS compatibility
 - [ ] Add way of applying insets to edges
 - [ ] Division operator
+- [ ] Add Podspec
+- [ ] Add tests
